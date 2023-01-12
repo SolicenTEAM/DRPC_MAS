@@ -6,7 +6,7 @@
 </div>
 
 ## 💚 Подробности
-Форк доммода от автора [ImKventis](https://github.com/ImKventis).
+Форк допмода от автора [ImKventis](https://github.com/ImKventis).
 
 * Автор оригинального мода: [ImKventis](https://github.com/ImKventis) | [репозиторий](https://github.com/ImKventis/MAS_RPC) 
 * Original mod author: [ImKventis](https://github.com/ImKventis) | [repo](https://github.com/ImKventis/MAS_RPC)
