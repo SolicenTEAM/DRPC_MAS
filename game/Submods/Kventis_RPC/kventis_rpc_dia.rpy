@@ -222,4 +222,6 @@ label monika_rpc_change_icon:
     m 1dud "One moment..."
     m 1hub "The icon will update in the next minute or two!"
     m 1rub "I wonder what icon you chose..."
+    $ store.kventis_rpc.toggle_rpc()
+    $ store.kventis_rpc.toggle_rpc()
     return # Return otherwise other labels start playing
